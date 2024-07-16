@@ -30,10 +30,10 @@
 ##### Ejemplo de uso
 
 - Despues de ejecutar el programa, se mostrará el siguiente menú, en el cual el usuario deberá escoger la opción a realizar digitándo el número correspondiente.<br>
-![Menu](/assets/menuConversor.png)
+![Menu](/src/com/aluracursoschallengeone/monedasconversor/assets/menuConversor.png)
 
 - Mostrando resultados.<br>
-![Resultado](/assets/resultadoConversor.png)
+![Resultado](/src/com/aluracursoschallengeone/monedasconversor/assets/resultadoConversor.png)
 
 - ## Requisitos ⭐⭐⭐⭐
 
