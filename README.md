@@ -29,9 +29,11 @@
 
 ##### Ejemplo de uso
 
-- Despues de ejecutar el programa, se mostrará el siguiente menú, en el cual el usuario deberá escoger la opción a realizar digitándo el número correspondiente.<br>![Salir del programa]![Menu](assets/monedasConversor.png)
+- Despues de ejecutar el programa, se mostrará el siguiente menú, en el cual el usuario deberá escoger la opción a realizar digitándo el número correspondiente.<br>
+![Menu](/assets/menuConversor.png)
 
-- Mostrando resultados.<br>![Mostrar](assets/resultadoConversor.png)
+- Mostrando resultados.<br>
+![Resultado](/assets/resultadoConversor.png)
 
 - ## Requisitos ⭐⭐⭐⭐
 
